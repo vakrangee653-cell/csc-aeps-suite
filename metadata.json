@@ -1,0 +1,10 @@
+{
+  "name": "SmartSpe CSC Suite",
+  "description": "All-in-one suite of web tools for CSC (VLEs), students, and document processing in India. Features direct Aadhaar/Voter ID card cropping and printer layout, Marriage Biodata and Professional Resume builder, CSP ledger bookkeeping, reports, and staff permission controls.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
